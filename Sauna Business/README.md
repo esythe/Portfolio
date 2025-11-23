@@ -11,7 +11,7 @@ This project simulates the operation of a sauna business, offering:
 4) Discounts applied depending on membership tier.
    
 
-### I used Chat-GPT to generate a full SQL dataset of 300+ rows, using a schema I provided, including:
+### I asked Chat-GPT to generate a full SQL dataset of 300+ rows, using a schema I provided, including:
 
 1. 100 customers. 
    
@@ -41,6 +41,8 @@ The results of these queries were presented visually in Tableau.
 - Relational database design (PK/FK setup, normalised structure).
 
 - SELECT and INSERT STATEMENTS.
+
+- ROUND function.
   
 - INNER JOIN & LEFT JOIN across multiple tables.
   
