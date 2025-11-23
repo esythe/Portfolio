@@ -29,7 +29,7 @@ I am transitioning into **data analytics** through insructor-led learning,  self
 ---
 
 ## 📚 Projects
-You can see my portfolio in detail [HERE](https://github.com/esythe/Portfolio).
+You can see my [Sauna business project](https://github.com/esythe/Portfolio/tree/master/Sauna%20Business) and [Covid project](https://github.com/esythe/Portfolio/tree/master/COVID) in detail 
 
 Here I showcase projects involving:
 - SQL querying & optimisation  
