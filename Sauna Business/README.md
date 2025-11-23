@@ -35,7 +35,7 @@ This project simulates the operation of a sauna business, offering:
    
 5) Which customers, if any, have never purchased a sesssion?
 
-The results of these queries were presented visually in Tableau.
+The results of these queries were presented visually in Tableau. Please view it [HERE](https://public.tableau.com/views/SaunaDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ### Skills Demonstrated
 - Relational database design (PK/FK setup, normalised structure).
