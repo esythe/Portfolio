@@ -20,7 +20,7 @@ Source: Microsoft
 Official documentation and installation guide:  
 https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure
 
-AdventureWorks is a fictional retail company dataset designed to simulate:
+AdventureWorks is a dataset designed by Microsoft to simulate:
 - Internet and reseller sales.
 - Customers and geographic regions.
 - Products, inventory, and logistics.
@@ -50,13 +50,15 @@ Each question was answered using **SQL queries only**, focusing on clarity, corr
 
 ## 🛠️ SQL Techniques Used
 - `JOIN` operations across multiple dimension and fact tables
+- Currency Formating using `FORMAT`
+- Various SQL functions like `ROUND` and `DATEDIFF`
 - Aggregate functions (`SUM`, `COUNT`, `AVG`)
-- Date-based analysis using time dimensions
 - Subqueries and derived tables
+- CTEs
 - Sorting and ranking results
-- Filtering using `WHERE` and `GROUP BY`
+- Set Operations like `UNION`
+- Filtering using `WHERE`, `HAVING` and `GROUP BY`
 - Preparing query outputs for visualisation
-- Union
 
 ---
 
@@ -74,4 +76,3 @@ Each question was answered using **SQL queries only**, focusing on clarity, corr
 
 ## 📎 Notes
 - This project focuses on **query logic and analysis**, not data cleaning, as AdventureWorks is a pre-cleaned sample dataset.
-- All analysis was completed using SQL in a Microsoft SQL Server environment.
