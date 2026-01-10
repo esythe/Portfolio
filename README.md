@@ -1,17 +1,15 @@
 # 👋 Hello, I'm Esther  
-### Aspiring Data Analyst 
+### Data Analyst 
 
 I am a data driven problem solver with a passion for transforming raw data into meaningful insights.  
-Coming from a background in **healthcare and customer support management**, I bring strong communication skills, operational awareness, and a customer-centric mindset into the world of analytics.
-
-I am transitioning into **data analytics** through insructor-led learning,  self-learning, online courses, books, and hands-on projects. I love learning and continuously improving my analytical and technical skills.
+Coming from a background in **healthcare and technical support management**, I bring strong communication skills, operational awareness, and a customer-centric mindset into the world of analytics.
 
 ---
 
 ## 🔍 What I Do
-- Query data using **SQL** (MySQL, MS SQL Server, Postgres SQL)  
+- Query data using **SQL** (MySQL, MS SQL Server, Postgres SQL, Big Query)  
 - Clean, transform, and model datasets  
-- Develop dashboards in **Tableau** (learning Power BI)  
+- Develop dashboards in **Tableau** and **Power BI**
 - Perform ad-hoc and exploratory data analysis  
 - Build visual and automated reports  
 - Document insights in clear, business-ready language  
@@ -21,17 +19,23 @@ I am transitioning into **data analytics** through insructor-led learning,  self
 ## 🧩 Technical Skills
 
 ### 🛠️ Languages & Tools
-- **SQL** (MySQL, MS SQL Server, Postgres SQL)  
+- **SQL** (MySQL, MS SQL Server, Postgres SQL)
 - **Tableau**  
-- **Power BI** (learning)  
+- **Power BI**
 - **Excel & Google Sheets**
+
+---
+## 🎓 Certifications 
+
+[Google Data Analytics Certificate](https://www.credly.com/badges/c04b0e66-bdce-47ee-b9a7-4972a1100cc0)
 
 ---
 
 ## 📚 Projects
-You can see my [Sauna business project](https://github.com/esythe/Portfolio/tree/master/Sauna%20Business) and [Covid project](https://github.com/esythe/Portfolio/tree/master/COVID) in detail 
+You can view my [Sauna business project](https://github.com/esythe/Portfolio/tree/master/Sauna%20Business) and [Covid project](https://github.com/esythe/Portfolio/tree/master/COVID) in detail. 
+You can also review my analysis of Microsoft's Adventure Works dataset **[HERE]** (https://github.com/esythe/Portfolio/tree/master/AdventureWorks), where I undertake a time-series analysis, using subqueries, CTEs and more!
 
-Here I showcase projects involving:
+My projects involve:
 - SQL querying & optimisation  
 - Data cleaning & modelling  
 - KPI and dashboard design  
@@ -40,27 +44,10 @@ Here I showcase projects involving:
 
 ---
 
-## 🎯 My Goal
-To improve as a **Data Analyst** and gain real-world industry knowledge.
-- Improve decision-making using data. 
-- Build dashboards that tell compelling stories.  
-- Combine my healthcare/customer support background with analytics.  
-- Continue learning every day. 
-
----
-
 ## ❤️ About Me
 I’m passionate about:
-- Learning new skills.  
-- Solving problems.
-- Creating value through data.
-- Continuous improvement.
-- Helping businesses understand their data. 
+- Solving problems
+- Creating value through data
+- Helping businesses understand their data
 
-If only I could
-``` SQL 
-INSERT INTO EsthersBrain
-SELECT *
-FROM SQL
-```
 
