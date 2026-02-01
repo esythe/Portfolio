@@ -33,7 +33,7 @@ Coming from a background in **healthcare and technical support management**, I b
 
 ## 📚 Projects
 You can view my [Sauna business project](https://github.com/esythe/Portfolio/tree/master/Sauna%20Business) and [Covid project](https://github.com/esythe/Portfolio/tree/master/COVID) in detail. 
-You can also review my analysis of Microsoft's Adventure Works dataset **[HERE]** (https://github.com/esythe/Portfolio/tree/master/AdventureWorks), where I undertake a time-series analysis, using subqueries, CTEs and more!
+You can also review my analysis of Microsoft's Adventure Works dataset **[HERE]**(https://github.com/esythe/Portfolio/tree/master/AdventureWorks), where I undertake a time-series analysis, using subqueries, CTEs and more!
 
 My projects involve:
 - SQL querying & optimisation  
